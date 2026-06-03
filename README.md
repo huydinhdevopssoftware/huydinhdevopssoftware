@@ -3,7 +3,7 @@
   # 👋 Xin chào, tôi là Huy!
 
   <!-- 1. KHỐI LẬP PHƯƠNG 3D XOAY (Hiển thị các công nghệ bạn làm việc) -->
-<img src="https://github-maps.com/cube/huydinhdevopssoftware" alt="GitHub Cube" width="300" />
+<img src="https://github-readme-stats.vercel.app/api?username=huydinhdevopssoftware&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
 
   <br/>
 
