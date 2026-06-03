@@ -1,13 +1,7 @@
 <div align="center">
 
   # 👋 Xin chào, tôi là Huy!
-
-  <!-- 1. KHỐI LẬP PHƯƠNG 3D XOAY (Hiển thị các công nghệ bạn làm việc) -->
-<img src="https://github-readme-stats.vercel.app/api?username=huydinhdevopssoftware&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-
   <br/>
-
-  <!-- 2. BẢNG ĐÓNG GÓP 3D (Sẽ hiển thị sau khi bạn chạy xong GitHub Actions ở Bước 1) -->
   ### 📊 Đồ thị đóng góp 3D của tôi
   
   <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D Graph" width="85%" />
@@ -22,4 +16,4 @@
 - 💬 **Thảo luận với tôi về:** Thiết kế hệ thống (System Architecture), Tích hợp AI (RAG, AI Agents), hoặc tối ưu hóa logic backend.
 
 ### 📬 Kết nối với tôi
-- **Email:** (Bạn có thể điền email cá nhân của mình vào đây)
+- **Email:** 
